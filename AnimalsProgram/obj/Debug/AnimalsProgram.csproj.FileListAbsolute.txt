@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\AnimalsProgram\bin\Debug\AnimalsProgram.exe.config
+C:\Users\Student\source\repos\AnimalsProgram\bin\Debug\AnimalsProgram.exe
+C:\Users\Student\source\repos\AnimalsProgram\bin\Debug\AnimalsProgram.pdb
+C:\Users\Student\source\repos\AnimalsProgram\obj\Debug\AnimalsProgram.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\AnimalsProgram\obj\Debug\AnimalsProgram.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AnimalsProgram\obj\Debug\AnimalsProgram.exe
+C:\Users\Student\source\repos\AnimalsProgram\obj\Debug\AnimalsProgram.pdb
